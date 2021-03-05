@@ -2,7 +2,7 @@
 // [[Rcpp::depends(RcppEigen)]]
 #define BOOST_DISABLE_ASSERTS
 #define EIGEN_NO_DEBUG
-// #define ARMA_64BIT_WORD 1
+#define ARMA_64BIT_WORD 1
 
 // Header files
 #include <RcppArmadillo.h>

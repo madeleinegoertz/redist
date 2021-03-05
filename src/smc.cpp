@@ -4,7 +4,6 @@
  * Date Created: 2019/11
  * Purpose: Sequential Monte Carlo redistricting sampler
  ********************************************************/
-
 #include "smc.h"
 
 /*
